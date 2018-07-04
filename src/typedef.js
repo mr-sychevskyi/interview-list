@@ -7,5 +7,5 @@ export type Interview = {|
     fullName: string,
     birthDate: string,
     phoneNumber: string,
-    interiewNotes: string
+    interviewNotes: string
 |};
