@@ -1,6 +1,6 @@
 # Interview List App
 
-**Demo:** [Github Pages](https://mr-sychevskyi.github.io/interviews-list/dist/index.html)
+**Demo:** [Github Pages](https://mr-sychevskyi.github.io/interview-list/dist/index.html)
 
 **To run this app locally:**
 * npm install
