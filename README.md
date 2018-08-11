@@ -1,4 +1,4 @@
-# Interviews List App
+# Interview List App
 
 **Demo:** [Github Pages](https://mr-sychevskyi.github.io/interviews-list/dist/index.html)
 
