@@ -5,7 +5,7 @@ import type {Interview} from './typedef';
 import templateList from './templates/templateList';
 import InterviewPlate from './interviewPlate';
 
-export const dataBaseUrl = 'https://api.mlab.com/api/1/databases/interview-data/collections/Interviews?apiKey=3W6HwsPsBuULjX6cc9ZUcdJvdp-r_ziv';
+export const dataBaseUrl = 'https://api.mlab.com/api/1/databases/interview-data/collections/Interviews?apiKey=OC9zdRla3z_mJLnJolHefCGgrKx7MOlH';
 
 export default class InterviewsList {
     parent: HTMLElement;
