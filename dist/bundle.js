@@ -9556,8 +9556,6 @@ var _interviewsList2 = _interopRequireDefault(_interviewsList);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-// flow
-
 window.addEventListener('load', () => {
     if (document.body) {
         const list = new _interviewsList2.default(document.body);
