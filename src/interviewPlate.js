@@ -25,7 +25,7 @@ export default class InterviewPlate {
         this.parent.appendChild(this.card);
 
         this.editMode = false;
-        this.cardUrl = `https://api.mlab.com/api/1/databases/interview-data/collections/Interviews/${this.id}?apiKey=3W6HwsPsBuULjX6cc9ZUcdJvdp-r_ziv`;
+        this.cardUrl = `https://api.mlab.com/api/1/databases/interview-data/collections/Interviews/${this.id}?apiKey=OC9zdRla3z_mJLnJolHefCGgrKx7MOlH`;
     }
 
     render() {
